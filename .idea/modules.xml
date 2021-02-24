@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mybatis.iml" filepath="$PROJECT_DIR$/Mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mybatis-01/Mybatis-01.iml" filepath="$PROJECT_DIR$/Mybatis-01/Mybatis-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis-02/Mybatis-02.iml" filepath="$PROJECT_DIR$/Mybatis-02/Mybatis-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis-03/Mybatis-03.iml" filepath="$PROJECT_DIR$/Mybatis-03/Mybatis-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis-04/Mybatis-04.iml" filepath="$PROJECT_DIR$/Mybatis-04/Mybatis-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis-05/Mybatis-05.iml" filepath="$PROJECT_DIR$/Mybatis-05/Mybatis-05.iml" />
     </modules>
   </component>
 </project>
