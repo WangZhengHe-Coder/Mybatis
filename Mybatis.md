@@ -1,5 +1,28 @@
 ## 1、什么是MyBatis
 
+**可能出现问题说明：Maven静态资源过滤问题**
+
+```
+<resources>
+   <resource>
+       <directory>src/main/java</directory>
+       <includes>
+           <include>**/*.properties</include>
+           <include>**/*.xml</include>
+       </includes>
+       <filtering>false</filtering>
+   </resource>
+   <resource>
+       <directory>src/main/resources</directory>
+       <includes>
+           <include>**/*.properties</include>
+           <include>**/*.xml</include>
+       </includes>
+       <filtering>false</filtering>
+   </resource>
+</resources>
+```
+
 ## 2、第一个Mybatis程序
 
 思路：搭建环境--->导入Mybatis--->
